@@ -19,7 +19,7 @@
       "token": "name",
       "where": "markdown",
       "description": "Display name — also set in the SVG",
-      "example": "Jane Doe"
+      "example": "OCHA"
     },
     {
       "token": "caption",
