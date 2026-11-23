@@ -5,19 +5,6 @@ ocha — open-source maintainer
 site        linkedin.com/in/moch-adib-izaz-96b172283
 ```
 
-### `~ $ ls projects --sort=stars`
-
-<table>
-<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
-<tbody>
-<tr><td align="left"><a href="https://github.com/OGTAGRAM/OGTAGRAM">OGTAGRAM</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/OGTAGRAM/Grafana-Step">Grafana-Step</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/OGTAGRAM/Rev-Portofolio">Rev-Portofolio</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/OGTAGRAM/Sevima">Sevima</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/OGTAGRAM/Slicing_Sevima">Slicing_Sevima</a></td><td align="left">—</td><td align="right">0</td></tr>
-</tbody>
-</table>
-
 ### `~ $ cat stack.txt`
 
 ```text
