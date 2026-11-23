@@ -1,13 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img src="./assets/flow-field.svg" alt="OCHA — a year as a vector field" width="100%" />
+</p>
 
-### OCHA
+### the year
 
-> *Belajar membangun hal-hal kecil yang berguna, satu commit setiap hari.*
+Tahun ini saya fokus belajar membangun aplikasi web dan mulai membiasakan diri menyimpan proyek di GitHub.
 
-The snake above is built fresh every day, it's eating real commits, not props.
+### what came out of it
+
+- **aquacropnet** — proyek web berbasis Laravel (Blade).
+- **UKL_Ruang_Belajar2** — halaman ruang belajar yang dibuat dengan HTML dan CSS.
+- **portofolio** — portofolio pribadi.
 
 — [LinkedIn](https://www.linkedin.com/in/moch-adib-izaz-96b172283/)
