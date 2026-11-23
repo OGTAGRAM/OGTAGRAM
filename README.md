@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/flow-field.svg" alt="OCHA — a year as a vector field" width="100%" />
+  <img src="./flow-field.svg" alt="OCHA — a year as a vector field" width="100%" />
 </p>
 
 ### the year
