@@ -1,16 +1,13 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/OGTAGRAM/OGTAGRAM/output/snake.svg" width="100%" />
+</picture>
 
-<!--
-**OGTAGRAM/OGTAGRAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### OCHA
 
-Here are some ideas to get you started:
+> *Belajar membangun hal-hal kecil yang berguna, satu commit setiap hari.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The snake above is built fresh every day, it's eating real commits, not props.
+
+— [LinkedIn](https://www.linkedin.com/in/moch-adib-izaz-96b172283/)
