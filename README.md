@@ -28,5 +28,3 @@ contributions  16 (last 12 months)
 ### `~ $ contact`
 
 <a href="https://github.com/ogtagram">GitHub</a> · <a href="https://www.linkedin.com/in/moch-adib-izaz-96b172283/">Website</a>
-
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
