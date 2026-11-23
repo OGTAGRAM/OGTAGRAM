@@ -18,7 +18,7 @@
 <rect x="46" y="-8" width="15" height="9" fill="#33538f"/><rect x="63" y="-8" width="15" height="9" fill="#4172bd"/><rect x="80" y="-8" width="15" height="9" fill="#5195e0"/><rect x="97" y="-8" width="15" height="9" fill="#68b9f2"/><rect x="114" y="-8" width="15" height="9" fill="#8fdcff"/>
 <text x="182" y="0" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#4d5578" letter-spacing="2">BUSY</text>
 </g>
-<line x1="72" y1="384" x2="1128" y2="384" stroke="#1a2038"/>
-<text x="72" y="404" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" fill="#4d5578" letter-spacing="2.5">SEEDED · DETERMINISTIC · REGENERATE FOR A DIFFERENT YEAR</text>
-<text x="1128" y="404" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" fill="#4d5578" letter-spacing="2.5">JANE.DEV</text>
-</svg>
+<text x="72" y="60" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="25" font-weight="700" fill="#e8ecff">OCHA</text>
+<text x="72" y="82" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#7c86b8" letter-spacing="4">WEB DEVELOPER · A YEAR, AS A VECTOR FIELD</text>
+...
+<text x="1128" y="404" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" fill="#4d5578" letter-spacing="2.5">OGTAGRAM</text>
