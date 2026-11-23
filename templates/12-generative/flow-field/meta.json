@@ -4,7 +4,7 @@
   "kind": "svg",
   "difficulty": "Advanced",
   "blurb": "A year of commits, drawn as a vector field.",
-  "asset": "assets/generative/flow-field.svg",
+  "asset": "flow-field.svg",
   "picture": false,
   "tags": [
     "generative",
@@ -31,37 +31,31 @@
       "token": "year_paragraph",
       "where": "markdown",
       "description": "What the year actually involved",
-      "example": "Mostly one design system, and a lot of typography."
+      "example": "Tahun ini saya fokus belajar membangun aplikasi web dan mulai membiasakan diri menyimpan proyek di GitHub."
     },
     {
       "token": "project_*_name",
       "where": "markdown",
       "description": "Project name, one per bullet",
-      "example": "acme design system"
+      "example": "aquacropnet"
     },
     {
       "token": "project_*_desc",
       "where": "markdown",
       "description": "One line on what it is",
-      "example": "tokens shipped to 14 teams"
+      "example": "proyek web berbasis Laravel (Blade)"
     },
     {
       "token": "website",
       "where": "markdown",
       "description": "Domain shown to the reader",
-      "example": "jane.dev"
+      "example": "LinkedIn"
     },
     {
       "token": "website_url",
       "where": "markdown",
       "description": "Site URL with protocol",
-      "example": "https://jane.dev"
-    },
-    {
-      "token": "twitter",
-      "where": "markdown",
-      "description": "Twitter/X handle, no @",
-      "example": "janedoe"
+      "example": "https://www.linkedin.com/in/moch-adib-izaz-96b172283/"
     }
   ],
   "credits": []
